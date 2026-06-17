@@ -2,6 +2,8 @@
 
 How to use the Harness
 
+You will need hexstrike-ai set up and working before following this guide. Their awesome tool can be found here on the github.
+
 ### On WSL
 ```
 wsl python3 /mnt/c/Install/Location/hexstrike-ai/re_harness.py \
