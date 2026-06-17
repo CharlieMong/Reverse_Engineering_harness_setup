@@ -12,7 +12,7 @@ wsl python3 /mnt/c/Install/Location/hexstrike-ai/re_harness.py \
 
 To get the report. 
 ```
-wsl cp /tmp/BINARY_re/re_report.html /mnt/c/Users/achar/Desktop/re_report.html
+wsl cp /tmp/BINARY_re/re_report.html /mnt/c/Username/achar/Desktop/re_report.html
 ```
 # What it does
 ## Overview
